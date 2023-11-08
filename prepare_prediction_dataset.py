@@ -20,7 +20,7 @@ import pandas as pd
 from Bio import SeqIO, motifs
 
 
-OUT_FILE = 'prediction_data_full_length.csv'
+OUT_FILE = 'sgrna_full_length.csv'
 GENOME_FILE = 'sequence.gb'
 DATA_FILE = '41467_2018_4209_MOESM8_ESM.csv'
 GENE_LIST = [
